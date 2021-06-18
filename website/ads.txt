@@ -1,0 +1,2 @@
+Herald Brain is a 
+research initiative to work on WOT, IOT, semantic web, expert systems, swarm intelligence, complex systems, collaborative development with their practical implementation in Nepal.
